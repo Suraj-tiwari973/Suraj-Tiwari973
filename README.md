@@ -1,5 +1,5 @@
-Hi 👋, I'm Abhishek Kumar Tiwari
-A passionate MERN STACK Developer from India
+                                                              Hi 👋, I'm Abhishek Kumar Tiwari
+                                                        A passionate MERN STACK Developer from India
 🏫 Currently, I am purusing Bachelor's of Technology in Computer Science from United College Of Enginnering And Research Prayagraj.
 
 📖 I have good knowledge of Data Structure , Algorithm and Object Oriented programming like (JAVA).
@@ -9,4 +9,3 @@ A passionate MERN STACK Developer from India
 📫 How to reach me tiwarisuraj0852@gmail.com
 
 Portfolio: https://abhishek-portfolio-six.vercel.app/
-
