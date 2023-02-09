@@ -1,4 +1,4 @@
-<h1>Hi..🖐 I am Abhishek Kumar Tiwari.</h1>
+<h2 style="text-align:center">Hi..🖐 I am Abhishek Kumar Tiwari.</h2>
 
 <h3>A passionate MERN STACK Developer from India.</h3>
 
