@@ -1,6 +1,6 @@
 <h2 align="center" >Hi..🖐 I am Abhishek Kumar Tiwari.</h2>
 
-<h3>A passionate MERN STACK Developer from India.</h3>
+<h3> A passionate MERN STACK Developer from India.</h3>
 
 🏫 Currently, I am purusing Bachelor's of Technology in Computer Science from United College Of Enginnering And Research Prayagraj.
 
