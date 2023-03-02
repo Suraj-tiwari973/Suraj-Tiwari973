@@ -10,7 +10,7 @@
 
 📫 How to reach me: tiwarisuraj0852@gmail.com
 
-Portfolio: cptsuraj.vercel.app
+Portfolio: https://cptsuraj.vercel.app
 
 Social Media: https://twitter.com/SurajTi36172244
 
