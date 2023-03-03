@@ -12,7 +12,7 @@
 
 Portfolio: https://cptsuraj.vercel.app
 
-Social Media: https://twitter.com/SurajTi36172244
+Social Media: https://www.linkedin.com/in/abhishek-kumar-tiwari-701b89211
 
 <h3>Languages and Tools :</h3>
 <div class container style="display:flex align-items:center">
