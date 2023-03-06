@@ -10,7 +10,7 @@
 
 📫 How to reach me: tiwarisuraj0852@gmail.com
 
-Portfolio: https://cptsuraj.vercel.app
+Portfolio: https://cptabhi.vercel.app
 
 Social Media: https://www.linkedin.com/in/abhishek-kumar-tiwari-701b89211
 
