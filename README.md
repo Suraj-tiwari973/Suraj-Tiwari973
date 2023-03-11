@@ -12,7 +12,7 @@
 
 Portfolio: https://cptabhi.vercel.app
 
-Social Media: https://www.linkedin.com/in/abhishek-kumar-tiwari-701b89211
+Linked In: https://www.linkedin.com/in/cptabhi
 
 <h3>Languages and Tools :</h3>
 <div class container style="display:flex align-items:center">
