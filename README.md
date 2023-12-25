@@ -8,9 +8,12 @@
 
 👯 I’m looking to collaborate on MERN STACK Development
 
-📫 How to reach me: tiwarisuraj0852@gmail.com
+📫 How to reach me: 
+Contact No: 8127357060
 
-Portfolio: https://cptabhi.vercel.app
+Email: tiwarisuraj0852@gmail.com
+
+Portfolio: https://cptportfolio.vercel.app
 
 Linked In: https://www.linkedin.com/in/cptabhi
 
