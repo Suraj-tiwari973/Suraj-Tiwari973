@@ -9,7 +9,6 @@
 👯 I’m looking to collaborate on MERN STACK Development
 
 📫 How to reach me: 
-Contact No: 8127357060
 
 Email: tiwarisuraj0852@gmail.com
 
